@@ -1,0 +1,6 @@
+DEBUG:Chroma:Logger created
+DEBUG:Chroma:Index not found
+DEBUG:Chroma:Index saved to {self._save_folder}/index.bin
+DEBUG:Chroma:Index saved to {self._save_folder}/index.bin
+DEBUG:Chroma:time to pre process our knn query: 1.9073486328125e-06
+DEBUG:Chroma:time to run knn query: 0.00011920928955078125
